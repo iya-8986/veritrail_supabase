@@ -582,8 +582,8 @@ CREATE TABLE asset_reservation_history (
 
 
 /*
-========================DELIVERY MODULE========================
-Delivery Module handles the custody of the delivery
+========================CUSTODY MODULE========================
+CUSTODY Module handles the custody of the delivery
 +++table: custody_records - records every person who handled the package
 +++table: active_custodian - records the current holder of the package
 */
